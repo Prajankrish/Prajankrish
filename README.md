@@ -1,41 +1,29 @@
-Hi there 👋
+Hey there 👋
 
-I’m Prajan, an aspiring AI & Machine Learning Engineer and Data Scientist who enjoys building intelligent systems, AI agents, and automation-driven solutions. I focus on learning by building real-world projects and exploring emerging technologies in AI.
+I’m Prajan, an aspiring AI & Machine Learning Engineer and Data Scientist.
 
-🚀 Featured Project
+I like building things that think, learn, and automate — from machine learning models and AI agents to data-driven systems that solve real problems.
 
-QORE — Quantum Machine Learning Platform
-A research-focused platform exploring the intersection of quantum computing and machine learning, experimenting with hybrid quantum–classical approaches for future-ready AI systems.
+One project I’m particularly proud of is** QORE, a quantum machine learning platform** where I explore how quantum concepts can enhance modern ML workflows.
 
-🔭 I’m currently working on
+Most of my learning happens by building, breaking, and rebuilding — working with real data, real constraints, and real ideas.
 
-AI agents and LLM-based systems
-Automation workflows using AI
-Machine learning and data science projects
-Expanding QORE with advanced experiments
+**What I usually work on**
 
-🌱 I’m currently learning
+‣ Machine learning & data science
+‣ AI agents and LLM-based systems
+‣ Automation and intelligent workflows
+‣ Experimental and research-driven projects
 
-Advanced machine learning techniques
-LLM architectures and agent frameworks
-Quantum machine learning fundamentals
-Scalable AI system design
+**Tools I’m comfortable with**
 
-🛠️ Tech Stack
+‣ Python, SQL
+‣ Scikit-learn, TensorFlow, PyTorch
+‣ Pandas, NumPy, Matplotlib
+‣ Git, GitHub, Jupyter, n8n
 
-Languages: Python, SQL
-ML / AI: Scikit-learn, TensorFlow, PyTorch
-Data: Pandas, NumPy, Matplotlib
-AI Agents & Automation: LLMs, agent frameworks, workflow automation
-Tools: Git, GitHub, Jupyter, APIs
+**Outside the code**
 
-💬 Ask me about
-
-Machine learning & data science
-AI agents and automation
-Experimental AI projects
-Quantum machine learning (QORE)
-
-⚡ Fun fact
-
-I enjoy exploring future-focused AI ideas — from autonomous agents to quantum-enhanced machine learning.
+‣ Curious about future AI systems
+‣ Enjoy exploring complex ideas
+‣ Always learning, always building
