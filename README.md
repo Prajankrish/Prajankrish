@@ -11,19 +11,27 @@ Most of my learning happens by building, breaking, and rebuilding — working wi
 **What I usually work on**
 
 ‣ Machine learning & data science
+
 ‣ AI agents and LLM-based systems
+
 ‣ Automation and intelligent workflows
+
 ‣ Experimental and research-driven projects
 
 **Tools I’m comfortable with**
 
 ‣ Python, SQL
+
 ‣ Scikit-learn, TensorFlow, PyTorch
+
 ‣ Pandas, NumPy, Matplotlib
+
 ‣ Git, GitHub, Jupyter, n8n
 
 **Outside the code**
 
 ‣ Curious about future AI systems
+
 ‣ Enjoy exploring complex ideas
+
 ‣ Always learning, always building
